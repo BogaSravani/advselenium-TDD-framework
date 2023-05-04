@@ -14,5 +14,7 @@ public void Readdata()
 	
 	String Pvalue=System.getProperty("password");
 	System.out.println(Pvalue);
+	String USvalue=System.getProperty("username");
+	System.out.println(USvalue);
 }
 }
